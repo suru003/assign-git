@@ -12,3 +12,4 @@ To work independently on different modules of the project and maintaining a main
 
 •In a project how many remote Git repositories do you usually have?
 Usually one, but you can add later as many you want as git can't scale to handle 10s of thousands of users in a repository.
+
